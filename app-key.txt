@@ -1,0 +1,7 @@
+alias : cedarAcademy
+password: dev@admincedar
+validity: 10years
+organizational unit: TheCedarAcademy
+Organization:TheCedarAcademy
+city: Jebba
+State : Niger
